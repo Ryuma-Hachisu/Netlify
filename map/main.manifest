@@ -2,11 +2,11 @@
   "packageUrl": "https://objective-yalow-b7594c.netlify.com/map/",
   "remoteVersionUrl": "",
   "remoteManifestUrl": "https://objective-yalow-b7594c.netlify.com/map/main.manifest",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "engineVersion": "1.0.0",
   "assets": {
     "master.db": {
-      "md5": "81864505076f08e1bad3813a23f77702"
+      "md5": "2443545e599feb6dfbb27fae44edf9be"
     }
   }
 }
