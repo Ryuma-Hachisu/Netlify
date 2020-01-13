@@ -2,7 +2,7 @@
   "packageUrl": "https://objective-yalow-b7594c.netlify.com/map/",
   "remoteVersionUrl": "",
   "remoteManifestUrl": "https://objective-yalow-b7594c.netlify.com/map/main.manifest",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "engineVersion": "1.0.0",
   "assets": {
     "master.db": {
