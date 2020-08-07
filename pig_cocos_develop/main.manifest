@@ -2,11 +2,11 @@
   "packageUrl": "https://objective-yalow-b7594c.netlify.com/pig_cocos_develop/",
   "remoteVersionUrl": "",
   "remoteManifestUrl": "https://objective-yalow-b7594c.netlify.com/pig_cocos_develop/main.manifest",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "engineVersion": "3.13.4",
   "assets": {
     "master.db": {
-      "md5": "a8522f6c2a2fd723e3513361448d4f42"
+      "md5": "bc1611313723433b3777a4ff56988710"
     }
   }
 }
