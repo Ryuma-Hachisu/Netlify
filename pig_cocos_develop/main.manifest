@@ -2,7 +2,7 @@
   "packageUrl": "https://objective-yalow-b7594c.netlify.com/pig_cocos_develop/",
   "remoteVersionUrl": "",
   "remoteManifestUrl": "https://objective-yalow-b7594c.netlify.com/pig_cocos_develop/main.manifest",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "engineVersion": "3.13.4",
   "assets": {
     "master.db": {
@@ -49,7 +49,7 @@
       "compressed": true
     },
     "food.zip": {
-      "md5": "e3494e7a0a337fc680806da2321152f3",
+      "md5": "f72c1d70d9e32808a94002f7f65f10ab",
       "compressed": true
     }
   }
