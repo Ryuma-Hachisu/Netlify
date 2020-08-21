@@ -2,11 +2,11 @@
   "packageUrl": "https://objective-yalow-b7594c.netlify.com/pig_cocos_develop/",
   "remoteVersionUrl": "",
   "remoteManifestUrl": "https://objective-yalow-b7594c.netlify.com/pig_cocos_develop/main.manifest",
-  "version": "1.0.39",
+  "version": "1.0.40",
   "engineVersion": "3.13.4",
   "assets": {
     "master.db": {
-      "md5": "ec5da13a251dba7acc07c11fd139bcfe"
+      "md5": "3b3b963dd8c02bba1964c213d12ea063"
     },
     "ham_1.zip": {
       "md5": "7ff4bc1bb4c8ec42ce042b8d15b6ff6a",
@@ -52,16 +52,16 @@
       "md5": "00bcb225b50c6691e2fb78436c88bd82",
       "compressed": true
     },
-    "pighouse.zip": {
-      "md5": "1e0acfe4fb30647814516e406fbfc217",
-      "compressed": true
-    },
     "ui_doghouse.zip": {
       "md5": "32361ef26db1544347894930f22aa8f1",
       "compressed": true
     },
+    "pighouse.zip": {
+      "md5": "77626bf60bc868a747b1466a84cd70a2",
+      "compressed": true
+    },
     "ui_pighouse.zip": {
-      "md5": "5be80a8efa18a260f1f3fa08dda4bc19",
+      "md5": "38183b3123d2da58342684c9711c6a80",
       "compressed": true
     }
   }
