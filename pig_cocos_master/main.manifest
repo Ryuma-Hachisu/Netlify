@@ -1,0 +1,68 @@
+{
+  "packageUrl": "https://objective-yalow-b7594c.netlify.com/pig_cocos_master/",
+  "remoteVersionUrl": "",
+  "remoteManifestUrl": "https://objective-yalow-b7594c.netlify.com/pig_cocos_master/main.manifest",
+  "version": "1.0.5",
+  "engineVersion": "3.13.4",
+  "assets": {
+    "master.db": {
+      "md5": "3510acdbf1596f980ce85510c8dcf420"
+    },
+    "ham_1.zip": {
+      "md5": "c3d958cff28c20a6f1bb0e5b3d770d97",
+      "compressed": true
+    },
+    "ham_0.zip": {
+      "md5": "33b0ae8ef11d9ac3ecbcf3f32eee8d7e",
+      "compressed": true
+    },
+    "enemy.zip": {
+      "md5": "150d581d8645bde4825615aaa467c9e9",
+      "compressed": true
+    },
+    "porkhouse.zip": {
+      "md5": "3c3803cd98487f5b208e3ea1d020809a",
+      "compressed": true
+    },
+    "pig.zip": {
+      "md5": "d9efc4bcb8075e2486b99427b98cf553",
+      "compressed": true
+    },
+    "piglist.zip": {
+      "md5": "8df0faf9c60d473911f79f18232b0a1a",
+      "compressed": true
+    },
+    "pigsns.zip": {
+      "md5": "489e40e6f4a47cc024f71ef889d52ebb",
+      "compressed": true
+    },
+    "stamp.zip": {
+      "md5": "e14814a26ea81afb0e46e682823e4950",
+      "compressed": true
+    },
+    "worker.zip": {
+      "md5": "3793519f747c2442ce79cb7a65123830",
+      "compressed": true
+    },
+    "food.zip": {
+      "md5": "abac5eed606190fe64a5fdfd8f4c3460",
+      "compressed": true
+    },
+    "bgm_0.zip": {
+      "md5": "96467bd5b49f94f80c8c5c3e97ee2b92",
+      "compressed": true
+    },
+    "ui_doghouse.zip": {
+      "md5": "2143cdeffcbe7f7277d2ae61a148d44f",
+      "compressed": true
+    },
+    "ui_pighouse.zip": {
+      "md5": "660f97fef780379fb11e18e5c02a813a",
+      "compressed": true
+    },
+    "pighouse.zip": {
+      "md5": "7eec94f9fbdbd2534c92effba966399c",
+      "compressed": true
+    }
+  }
+}
