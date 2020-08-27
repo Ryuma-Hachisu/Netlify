@@ -2,11 +2,11 @@
   "packageUrl": "https://objective-yalow-b7594c.netlify.com/wpig_cocos_develop/",
   "remoteVersionUrl": "",
   "remoteManifestUrl": "https://objective-yalow-b7594c.netlify.com/wpig_cocos_develop/main.manifest",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "engineVersion": "3.13.4",
   "assets": {
     "master.db": {
-      "md5": "5d1600f4ee02428cfee5de19991c9bd8"
+      "md5": "a0481ccf41576289ddeb7487662f1de1"
     },
     "ham_1.zip": {
       "md5": "fa2ef2fa4506dfbc86d7786afa878b10",
@@ -62,6 +62,18 @@
     },
     "pighouse.zip": {
       "md5": "05445209796c0f3f8204c47a1a21459a",
+      "compressed": true
+    },
+    "bg_001.zip": {
+      "md5": "913a1aa253d94b8a431af3e401bd574b",
+      "compressed": true
+    },
+    "bg_002.zip": {
+      "md5": "45957c29b661b9fd33e94bc713a02515",
+      "compressed": true
+    },
+    "bg_003.zip": {
+      "md5": "bf52a88693d31dd97a14f6c809cb44d4",
       "compressed": true
     }
   }
