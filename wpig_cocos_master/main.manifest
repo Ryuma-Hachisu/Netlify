@@ -2,11 +2,11 @@
   "packageUrl": "https://objective-yalow-b7594c.netlify.com/wpig_cocos_master/",
   "remoteVersionUrl": "",
   "remoteManifestUrl": "https://objective-yalow-b7594c.netlify.com/wpig_cocos_master/main.manifest",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "engineVersion": "3.13.4",
   "assets": {
     "master.db": {
-      "md5": "5d1600f4ee02428cfee5de19991c9bd8"
+      "md5": "76ed893cd518956514367dda6b1eca04"
     },
     "ham_1.zip": {
       "md5": "fa2ef2fa4506dfbc86d7786afa878b10",
