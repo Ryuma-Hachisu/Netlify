@@ -2,79 +2,11 @@
   "packageUrl": "https://objective-yalow-b7594c.netlify.com/pig_cocos_develop/",
   "remoteVersionUrl": "",
   "remoteManifestUrl": "https://objective-yalow-b7594c.netlify.com/pig_cocos_develop/main.manifest",
-  "version": "1.0.60",
+  "version": "1.0.61",
   "engineVersion": "3.13.4",
   "assets": {
     "master.db": {
-      "md5": "d628d78b1d5de9d508cc88af05c7366f"
-    },
-    "ham_1.zip": {
-      "md5": "7ff4bc1bb4c8ec42ce042b8d15b6ff6a",
-      "compressed": true
-    },
-    "ham_0.zip": {
-      "md5": "b459aca5fbc205ad29454bac31cd6b86",
-      "compressed": true
-    },
-    "enemy.zip": {
-      "md5": "58c46a19df075cdca9f3a8c4f8888c37",
-      "compressed": true
-    },
-    "porkhouse.zip": {
-      "md5": "3bb3a0a7e96b1f014f9483c7fb26149d",
-      "compressed": true
-    },
-    "pig.zip": {
-      "md5": "a0f0f3264d1d9844d31646d237bbd495",
-      "compressed": true
-    },
-    "piglist.zip": {
-      "md5": "0a4b492ac8fb83ef89e16dc619530fc8",
-      "compressed": true
-    },
-    "pigsns.zip": {
-      "md5": "393614bae06c494d0cd36f0a92cb2a7f",
-      "compressed": true
-    },
-    "stamp.zip": {
-      "md5": "d4fe17792cf778fd61e20c759f210718",
-      "compressed": true
-    },
-    "worker.zip": {
-      "md5": "2c6779d76749130669adcd4ec0d3c784",
-      "compressed": true
-    },
-    "food.zip": {
-      "md5": "31ffdbc4fbcfbbff005b655432d13d4b",
-      "compressed": true
-    },
-    "bgm_0.zip": {
-      "md5": "00bcb225b50c6691e2fb78436c88bd82",
-      "compressed": true
-    },
-    "ui_doghouse.zip": {
-      "md5": "32361ef26db1544347894930f22aa8f1",
-      "compressed": true
-    },
-    "ui_pighouse.zip": {
-      "md5": "928b3dfb604245de377f460eb12fa815",
-      "compressed": true
-    },
-    "pighouse.zip": {
-      "md5": "9cb917f64a3c7b368051895daeebbcb3",
-      "compressed": true
-    },
-    "bg_001.zip": {
-      "md5": "2d371bacc615c3f2ba29c34215d8a115",
-      "compressed": true
-    },
-    "bg_002.zip": {
-      "md5": "277cf73bd2d1ae5fd8c40e51af1b2a43",
-      "compressed": true
-    },
-    "bg_003.zip": {
-      "md5": "be18206ba3f4c33c8b753db237db53f8",
-      "compressed": true
+      "md5": "1e08176ed20455f850f324ac0ae6db76"
     }
   }
 }
