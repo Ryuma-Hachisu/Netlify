@@ -1,8 +1,8 @@
 {
-  "packageUrl": "https://objective-yalow-b7594c.netlify.com/wpig_cocos_develop/",
+  "packageUrl": "https://shuka-buta-b4fe5.web.app/wpig_cocos_develop/",
   "remoteVersionUrl": "",
-  "remoteManifestUrl": "https://objective-yalow-b7594c.netlify.com/wpig_cocos_develop/main.manifest",
-  "version": "1.0.11",
+  "remoteManifestUrl": "https://shuka-buta-b4fe5.web.app/wpig_cocos_develop/main.manifest",
+  "version": "1.0.12",
   "engineVersion": "3.13.4",
   "assets": {
     "master.db": {
