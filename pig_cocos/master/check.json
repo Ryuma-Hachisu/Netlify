@@ -1,6 +1,6 @@
 {
-    "version": "1.1.1",
-    "m_version": "1.1.1",
-    "maintenance": false,
-    "maintenance_text": "只今サーバー対応のためメンテナンス中になります。"
+    "version": "1.1.2",
+    "m_version": "1.1.2",
+    "maintenance": true,
+    "maintenance_text": "只今アップデート対応のためメンテナンス中になります。"
 }
