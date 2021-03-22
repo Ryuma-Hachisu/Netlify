@@ -2,11 +2,11 @@
   "packageUrl": "https://shuka-buta-b4fe5.web.app/wpig_cocos_master/",
   "remoteVersionUrl": "",
   "remoteManifestUrl": "https://shuka-buta-b4fe5.web.app/wpig_cocos_master/main.manifest",
-  "version": "1.0.140",
+  "version": "1.0.141",
   "engineVersion": "3.13.4",
   "assets": {
     "master.db": {
-      "md5": "a244d8623bd8b769de12fa1c00bf60ef"
+      "md5": "caee287c87e5f3cb1807d37cb539f37d"
     }
   }
 }
