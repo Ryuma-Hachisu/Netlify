@@ -1,6 +1,6 @@
 {
-    "version": "1.4.9",
-    "m_version": "1.4.9",
-    "maintenance": true,
-    "maintenance_text": "6/27 11:00〜11:30の間アクセス増大による対応でサーバーメンテナンス対応をさせていただきます。"
+    "version": "1.4.8",
+    "m_version": "1.4.8",
+    "maintenance": false,
+    "maintenance_text": "只今アップデート対応のためメンテナンス中になります。"
 }
