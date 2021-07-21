@@ -2,11 +2,11 @@
   "packageUrl": "https://shuka-buta-b4fe5.web.app/pig_cocos_develop/",
   "remoteVersionUrl": "",
   "remoteManifestUrl": "https://shuka-buta-b4fe5.web.app/pig_cocos_develop/main.manifest",
-  "version": "1.0.479",
+  "version": "1.0.480",
   "engineVersion": "3.13.4",
   "assets": {
     "master.db": {
-      "md5": "38e581258284c34e325d0da37ab64144"
+      "md5": "64b7374783178c19a18cc588b70c6f19"
     }
   }
 }
