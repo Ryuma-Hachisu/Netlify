@@ -2,11 +2,11 @@
   "packageUrl": "https://shuka-buta-b4fe5.web.app/cooking_develop/",
   "remoteVersionUrl": "",
   "remoteManifestUrl": "https://shuka-buta-b4fe5.web.app/cooking_develop/main.manifest",
-  "version": "1.0.34",
+  "version": "1.0.35",
   "engineVersion": "1.0.0",
   "assets": {
     "master.db": {
-      "md5": "297f8fe75c5032cb7cc8f90152dd2436"
+      "md5": "f10111a4197912919b905892d2d84189"
     }
   }
 }
