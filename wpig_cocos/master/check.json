@@ -1,7 +1,7 @@
 {
     "version": "1.7.7",
     "m_version": "1.7.7",
-    "maintenance": false,
-    "maintenance_text": "只今アップデート作業中のためのメンテナンス中となります"
+    "maintenance": true,
+    "maintenance_text": "只今サーバーアップデート作業中作業中のためのメンテナンス中となります 期間は以下となります。\n10/26 9:00-10:00"
 }
  
