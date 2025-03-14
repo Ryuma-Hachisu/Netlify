@@ -1,8 +1,8 @@
 {
     "version": "2.3.3",
-    "m_version": "2.3.3",
-    "maintenance": false,
+    "m_version": "2.3.4",
+    "maintenance": true,
     "sqlite": false,
-    "maintenance_text": "只今サーバーアップデート作業中作業中のためのメンテナンス中となります 完了予定は以下となります。\n2/16 12:00頃"
+    "maintenance_text": "只今アップデート作業中作業中のためのメンテナンス中となります 完了予定は以下となります。\n3/14 12:00頃"
 }
  
