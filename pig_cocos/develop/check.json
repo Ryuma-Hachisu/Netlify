@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "m_version": "1.0.0",
-    "review_version": "2.7.6",
+    "review_version": "2.8.1",
     "maintenance": false,
     "sqlite": false,
     "maintenance_text": "只今アップデート対応のためメンテナンス中になります。"
