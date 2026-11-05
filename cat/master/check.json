@@ -2,6 +2,6 @@
     "version": "1.4.7",
     "m_version": "1.4.8",
     "review_version": "1.4.8",
-    "maintenance": true,
+    "maintenance": false,
     "maintenance_text": "ただいまサーバーメンテナンス中です。復旧までしばらくお待ちください。"
 }
